@@ -16,13 +16,10 @@ h1{
 	color: white;
 
 }
-header{
-
-}
 
 .btn{
+	margin: auto;
 	border-radius: 300px;
-		margin-top: 450px;
+	margin-top: 450px;
 	margin-left: 10px;
-	
 }
